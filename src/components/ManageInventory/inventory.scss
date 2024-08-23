@@ -1,0 +1,30 @@
+#tablecss{
+    height: 40px;
+    width: 900px;
+   background-color: rgb(237, 233, 233);
+   border-radius: 10px;
+   padding: 5px;
+   margin-left: 250px;
+   margin-top: 100px;
+}
+
+.titleHead
+{
+    display: flex;
+    justify-content: space-between;
+}
+#formDiv1{
+   
+    gap: 1rem;
+    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: row;
+}
+#addStoreNewbtn{
+    margin-left: 50rem;
+    margin-top: 2rem;
+}
+
+#groupBtn{
+    margin-left: 50px;
+}

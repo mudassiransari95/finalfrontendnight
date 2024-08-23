@@ -1,0 +1,267 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+Link{
+  text-decoration: none !important;
+}
+
+
+fieldset {
+  border: 1px solid #000;
+}
+
+
+/* customerid table data */
+.tabledaatboking{
+  overflow-x: scroll;
+}
+.samplepage{
+  overflow-x: hidden;
+  overflow-y: hidden;
+
+
+}
+.image {
+  background-size: contain;
+}
+.hightprofile {
+  height: 25rem;
+}
+.brdnone {
+  border-bottom: none;
+}
+.imagerole {
+  background-size: contain;
+  width: 200px;
+  height: 50px;
+  background-color: #000;
+}
+.widthRole {
+  margin-top: 2rem !important;
+  width: 30rem;
+  height: 20rem;
+}
+.borderrole {
+  border: 1px solid purple;
+  font-size: larger;
+}
+.widthapp {
+  width: 40rem;
+}
+.widthtable {
+  width: 500px !important; 
+}
+.login-page{
+  background-image: url('https://media.istockphoto.com/id/173557068/photo/consultant-office-building.jpg?s=612x612&w=0&k=20&c=81jF5rKIk23FmoR7CK4oPdRR2cyFCn_SjDKsgrBad74=');
+  background-blend-mode: darken;
+  background-repeat: no-repeat;
+  object-fit: fill;
+  background-position: center;
+  background-size:cover;
+  /* background-size: cover; */
+}
+.forgot-password{
+  background-image: url('https://media.istockphoto.com/id/173557068/photo/consultant-office-building.jpg?s=612x612&w=0&k=20&c=81jF5rKIk23FmoR7CK4oPdRR2cyFCn_SjDKsgrBad74=');
+  background-blend-mode: darken;
+  background-repeat: no-repeat;
+  object-fit: fill;
+  background-position: center;
+  background-size:cover;
+}
+
+fieldset {
+  border: 1px solid #000;
+}
+
+.tabledaatboking{
+  overflow-x: scroll;
+}
+.samplepage{
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+.addnewaccount{
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+
+}
+.ImCross:hover{
+  color: red;
+}
+
+
+
+.doller-buyer{
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+
+
+
+fieldset {
+  border: 1px solid #000;
+}
+
+.tabledaatboking{
+  overflow-x: scroll;
+}
+.samplepage{
+  overflow-x: hidden;
+  overflow-y: hidden;
+
+
+}
+.image {
+  background-size: contain;
+}
+.hightprofile {
+  height: 22rem;
+}
+.brdnone {
+  border-bottom: none;
+}
+.imagerole {
+  background-size: contain;
+  width: 200px;
+  height: 50px;
+  background-color: #000;
+}
+.widthRole {
+  margin-top: 2rem !important;
+  width: 30rem;
+  height: 20rem;
+}
+.borderrole {
+  border: 1px solid purple;
+  font-size: larger;
+}
+.widthapp {
+  width: 40rem;
+}
+.widthtable {
+  width: 500px !important;
+  
+}
+
+/* costing-form */
+
+.table-form-section {
+    position: relative;
+}
+/* *, ::after, ::before {
+    box-sizing: border-box;
+} */
+/* user agent stylesheet */
+form {
+    display: block;
+    margin-top: 0em;
+    unicode-bidi: isolate;
+}
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    width: 100%;
+    padding-right: calc(var(--bs-gutter-x)* .5);
+    padding-left: calc(var(--bs-gutter-x)* .5);
+    margin-right: auto;
+    margin-left: auto;
+}
+.erp-table-section {
+    padding-top: 30px;
+    font-family: "Manrope", sans-serif;
+}
+body {
+    margin: 0;
+    padding: 0 !important;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    word-wrap: break-word;
+    background: #fff;
+}
+body {
+    margin: 0;
+    font-family: var(--bs-body-font-family);
+    font-size: var(--bs-body-font-size);
+    font-weight: var(--bs-body-font-weight);
+    line-height: var(--bs-body-line-height);
+    color: var(--bs-body-color);
+    text-align: var(--bs-body-text-align);
+    background-color: var(--bs-body-bg);
+    /* -webkit-text-size-adjust: 100%; */
+    /* -webkit-tap-highlight-color: transparent; */
+}
+:root {
+    --bs-blue: #0d6efd;
+    --bs-indigo: #6610f2;
+    --bs-purple: #6f42c1;
+    --bs-pink: #d63384;
+    --bs-red: #dc3545;
+    --bs-orange: #fd7e14;
+    --bs-yellow: #ffc107;
+    --bs-green: #198754;
+    --bs-teal: #20c997;
+    --bs-cyan: #0dcaf0;
+    --bs-black: #000;
+    --bs-white: #fff;
+    --bs-gray: #6c757d;
+    --bs-gray-dark: #343a40;
+    --bs-gray-100: #f8f9fa;
+    --bs-gray-200: #e9ecef;
+    --bs-gray-300: #dee2e6;
+    --bs-gray-400: #ced4da;
+    --bs-gray-500: #adb5bd;
+    --bs-gray-600: #6c757d;
+    --bs-gray-700: #495057;
+    --bs-gray-800: #343a40;
+    --bs-gray-900: #212529;
+    --bs-primary: #0d6efd;
+    --bs-secondary: #6c757d;
+    --bs-success: #198754;
+    --bs-info: #0dcaf0;
+    --bs-warning: #ffc107;
+    --bs-danger: #dc3545;
+    --bs-light: #f8f9fa;
+    --bs-dark: #212529;
+    --bs-primary-rgb: 13, 110, 253;
+    --bs-secondary-rgb: 108, 117, 125;
+    --bs-success-rgb: 25, 135, 84;
+    --bs-info-rgb: 13, 202, 240;
+    --bs-warning-rgb: 255, 193, 7;
+    --bs-danger-rgb: 220, 53, 69;
+    --bs-light-rgb: 248, 249, 250;
+    --bs-dark-rgb: 33, 37, 41;
+    --bs-white-rgb: 255, 255, 255;
+    --bs-black-rgb: 0, 0, 0;
+    --bs-body-color-rgb: 33, 37, 41;
+    --bs-body-bg-rgb: 255, 255, 255;
+    --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+    --bs-body-font-family: var(--bs-font-sans-serif);
+    --bs-body-font-size: 1rem;
+    --bs-body-font-weight: 400;
+    --bs-body-line-height: 1.5;
+/* Show all properties (17 more) */
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+select::-ms-expand{
+  display: none;
+}
+
+
+/* ...... */
+
+
+
+
+
